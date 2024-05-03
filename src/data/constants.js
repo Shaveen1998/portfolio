@@ -184,7 +184,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://i.postimg.cc/bwNHX0QM/SLTMobitel-Logo-svg.png",
     role: "Intern - Software Engineer(RnD)",
     company: "Sri Lanka Telecom PLC",
     date: "February 2023 - March 2024",
@@ -205,7 +205,7 @@ export const experiences = [
   },
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+    img: "https://i.postimg.cc/hP0b3Z7T/lsnfoajs.png",
     role: "Frontend Engineer(Freelance)",
     company: "theBOAT",
     date: "September 2023 - Present",
