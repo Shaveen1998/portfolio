@@ -293,7 +293,7 @@ export const education = [
     school: "Faculty of Engineering - University of Sri Jayewardenepura",
     date: "Oct 2020 - Present",
     grade: "3.60 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at faculty if engineering University of Sri Jayewardenepura, Bhubaneswar. I have completed 4 semesters and have a CGPA of 3.60. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at faculty if engineering University of Sri Jayewardenepura, Bhubaneswar. I have completed 4 semesters and have a CGPA of 3.60. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "BscEng(Hons)",
   },
   {
@@ -323,8 +323,7 @@ export const projects = [
     date: "",
     description:
       "Trip Me is a web application designed for the Startup theBOAT to streamline Plannig iterinaries and enhance efficiency for the tourist in planning process. It provides a user-friendly interface for travellers to keep track of their trip and plan their trips withour any inconviniences.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+    image: "https://i.postimg.cc/FKgynBSS/Screenshot-2024-05-02-192446.png",
     tags: [
       "React Js",
       "AWS",
@@ -345,8 +344,7 @@ export const projects = [
     date: "",
     description:
       "Developed a Mobile application along with the TripMe webapp that allows users track their ongoing trips, and explore the destintations they are currently visiting. Mostly acts as an Information application while travelling",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+    image: "https://i.postimg.cc/L5TCjs9J/Screenshot-481.png",
     tags: [
       "React Native",
       "Expo",
@@ -365,8 +363,7 @@ export const projects = [
     date: "",
     description:
       "Designed and developed the Blogger project, a  blog app that allow users to Create Update Retrieve and Delete blog postss on programming tech stacks using MERN stack. Implemented admin access privileges as well for privileged access and control mechanisms",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+    image: "https://i.postimg.cc/Tw1cLcyW/Screenshot-2024-05-03-100816.png",
     tags: [
       "React Js",
       "MongoDb",
@@ -386,8 +383,7 @@ export const projects = [
     date: "",
     description:
       "A recipe sharing Food web application with authentication and authorizations for users. User s will be allowed to post delete comment and rate recipes according to there wish. A fully functioning end to end web application also with recipe filturing features",
-    image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+    image: "https://i.postimg.cc/tgQ3Cjbw/Screenshot-2024-05-03-102448.png",
     tags: ["ReactJS", "Node JS", "Mongo DB", "Context API", "Tailwind CSS"],
     category: "web app",
     github: "https://github.com/Shaveen1998/shaveenFernando_038",
@@ -398,7 +394,7 @@ export const projects = [
     title: "Elec Care",
     date: "",
     description:
-      "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
+      "This project was selected as one of the finalists at SLIOT 2023 innovation competition. The project is based on regulating and monitoring the power consumption and other related metrics remotely and visualising them in real time. This project consist e of both Hardware and software. For software used a flask server with multiple endpoints to acquire real time data and also to perform LSTM based sequential training",
     image:
       "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
     tags: [
@@ -424,11 +420,18 @@ export const projects = [
     date: "",
     description:
       "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["React Native", "JavaScript", "Axios"],
+    image: "https://i.postimg.cc/JzW0s4yN/Screenshot-482.png",
+    tags: [
+      "React",
+      "JavaScript",
+      "Axios",
+      "Next JS 13 App Router",
+      "Tailwind",
+      "Prisma",
+      "Mongo",
+    ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
+    github: "",
     webapp: "https://github.com/rishavchanda/Job-finder-App",
   },
   {
@@ -436,7 +439,7 @@ export const projects = [
     title: "Givit App",
     date: "",
     description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+      "A good donation Android app designed using Java enabling users to donate and give away unwanted good and share them with others easily",
     image:
       "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
     tags: ["Java", "Android", "Room DB", "Android Studio"],
@@ -449,9 +452,8 @@ export const projects = [
     title: "Smart Agro",
     date: "",
     description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-    image:
-      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
+      "An end to end real time data visualisation dashboard for urban farmers toget alerts on their crop soil's essential parameters such as temperature and moisture levels. The dashboard supports MQTT communication and provides user authentication as well",
+    image: "https://i.postimg.cc/DwqgGZxn/Screenshot-2024-05-03-103623.png",
     tags: [
       "React Js",
       "Express JS",
@@ -471,9 +473,8 @@ export const projects = [
     title: "Incremental training consumption predictor algorithm using LSTM",
     date: "",
     description:
-      "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
-    image:
-      "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
+      "An LSTM base RNN with online learning abilities hosted in Digital Ocean and triggered by AWS Lambda serverless python script to predict the next day's, month's year's water consumption data(Final Year Project). Also create data streamlines to store the prediction data in a remote snowflake database",
+    image: "",
     tags: ["React Js", "API", "Axios", "Node JS"],
     category: "machine learning",
     github: "https://github.com/rishavchanda/Breaking-Bad",
@@ -484,25 +485,37 @@ export const projects = [
     title: "CoAP Server",
     date: "",
     description:
-      "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-    image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
+      "A node based server to acquire COAP data from remote devices and to process them and store them in a cloud based snowflake data warehouse using multiple data processing pipelines",
+    image: "",
+    tags: [
+      "Node JS",
+      "SnowFlake",
+      "Apache Kafka",
+      "AWS Lambda",
+      "node-coap0",
+      "snow-SQL",
+      "Big Data",
+    ],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Quiz-Earn",
+    github: "",
     webapp: "https://github.com/rishavchanda/Quiz-Earn",
   },
   {
     id: 8,
     title: "Realtor",
     date: "",
-    description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
-    image:
-      "https://camo.githubusercontent.com/a8b3e1ebf26d4c95f75bc6671189a3590eb67eb8332d7c7452492990e731efb9/68747470733a2f2f77617265686f7573652d63616d6f2e696e67726573732e636d68312e707366686f737465642e6f72672f356137383335396561323762643261633232336437656662306639303831306437373930383436312f363837343734373037333361326632663633366336663735363432653637363937343638373536323735373336353732363336663665373436353665373432653633366636643266363137333733363537343733326633383339333633363339333232663332333433343333333033333339333832663333333636363330363533333636333032643331333336333632326433313331363533373264333833323335333832643334363433303633333936333635333136353334333133393265363736393636",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+    description: "A real estate web application done using the MERN stack",
+    image: "https://i.postimg.cc/XXSKPSsw/Screenshot-2024-05-03-101007.png",
+    tags: [
+      "React JS",
+      "Node JS",
+      "Express JS",
+      "Redux",
+      "Mongo DB",
+      "React-leaflet",
+    ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "",
     webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
   },
 ];
