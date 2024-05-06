@@ -37,7 +37,8 @@ function Footer() {
     <FooterContainer>
       <FooterWrapper>
         <Logo>Shaveen Fernando</Logo>
-
+        <span>+94 763512288</span>
+        <span>shaveenfernando1@gmail.com</span>
         <Copyright>
           &copy; 2023 Shaveen Fernando. All rights reserved.
         </Copyright>
