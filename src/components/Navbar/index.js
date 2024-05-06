@@ -3,8 +3,6 @@ import {
   Nav,
   NavLink,
   NavbarContainer,
-  Span,
-  NavLogo,
   NavItems,
   GitHubButton,
   ButtonContainer,
@@ -12,7 +10,6 @@ import {
   MobileMenu,
   MobileLink,
 } from "./NavbarStyledComponent";
-import { DiCssdeck } from "react-icons/di";
 import { FaBars } from "react-icons/fa";
 import { Bio } from "../../data/constants";
 import { useTheme } from "styled-components";
@@ -23,20 +20,6 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to="/">
-          <a
-            href="/"
-            style={{
-              display: "flex",
-              alignItems: "center",
-              color: "white",
-              marginBottom: "20;",
-              cursor: "pointer",
-            }}
-          >
-            <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
-          </a>
-        </NavLogo>
         <MobileIcon>
           <FaBars
             onClick={() => {

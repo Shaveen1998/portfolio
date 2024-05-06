@@ -374,7 +374,7 @@ export const projects = [
       "Firebase",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
+    github: "https://github.com/Shaveen1998/YelpCamp-Node-JS",
     webapp: "https://vexa-app.netlify.app/",
   },
   {
@@ -413,6 +413,18 @@ export const projects = [
     category: "machine learning",
     github: "https://github.com/Shaveen1998/SLIOT-2022",
     webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+  },
+  {
+    id: 8,
+    title: "Employee Management System",
+    date: "",
+    description: "An employee management system using React and Spring boot",
+    image: "https://i.postimg.cc/yYCLRDsV/Screenshot-2024-05-06-115800.png",
+    tags: ["React JS", "Spring boot", "My SQL", "Spring data JPA"],
+    category: "web app",
+    github:
+      "https://github.com/Shaveen1998/springboot-react-employee-management-system",
+    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
   },
   {
     id: 10,
@@ -477,7 +489,7 @@ export const projects = [
     image: "",
     tags: ["React Js", "API", "Axios", "Node JS"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Breaking-Bad",
+    github: "https://github.com/Shaveen1998/LSTM-RNN.git",
     webapp: "https://breaking-bad-webapp.netlify.app",
   },
   {
@@ -499,24 +511,6 @@ export const projects = [
     category: "machine learning",
     github: "",
     webapp: "https://github.com/rishavchanda/Quiz-Earn",
-  },
-  {
-    id: 8,
-    title: "Realtor",
-    date: "",
-    description: "A real estate web application done using the MERN stack",
-    image: "https://i.postimg.cc/XXSKPSsw/Screenshot-2024-05-03-101007.png",
-    tags: [
-      "React JS",
-      "Node JS",
-      "Express JS",
-      "Redux",
-      "Mongo DB",
-      "React-leaflet",
-    ],
-    category: "web app",
-    github: "",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
   },
 ];
 
