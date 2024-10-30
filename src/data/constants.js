@@ -66,6 +66,16 @@ export const skills = [
     title: "Backend",
     skills: [
       {
+        name: "ASP.NET",
+        image:
+          "https://e7.pngegg.com/pngimages/534/663/png-clipart-net-framework-software-framework-c-microsoft-asp-net-microsoft-blue-angle-thumbnail.png",
+      },
+      {
+        name: "ASP.NET Core",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png",
+      },
+      {
         name: "Node Js",
         image: "https://nodejs.org/static/images/logo.svg",
       },
@@ -104,9 +114,9 @@ export const skills = [
     title: "Languages",
     skills: [
       {
-        name: "Java",
+        name: "C#",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+          "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png",
       },
       {
         name: "C++",
